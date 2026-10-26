@@ -9,7 +9,7 @@ I build web software with Claude Code: I design the architecture, the agent impl
 - 🧰 Stack: React, Next.js, Vue.js, Angular, TypeScript, Node.js, Python, adapting to the codebase I'm in
 - 🔭 Currently working on: AI-assisted development workflows and software tooling
 - 🌱 Exploring: agent workflows with Claude Code: skills, specialized agents, MCP integrations
-- 🤝 Available for: freelance projects and consulting
+- 🤝 Available for: freelance projects, consulting, and open source projects
 - 💬 Special interests: AI-assisted engineering, developer productivity, and modern web technologies
 
 ## Tech Stack
@@ -33,7 +33,7 @@ I build web software with Claude Code: I design the architecture, the agent impl
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeran-kuschel&layout=compact&theme=default)
 
 ## Open for Work
-I’m available for freelance work and software collaborations.
+I’m available for freelance work, software collaborations, and open source projects.
 
 Get in touch:
 - Website: https://joerankuschel.de (Deutsch) · https://joerankuschel.de/en/ (English)
