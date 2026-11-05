@@ -28,9 +28,15 @@ I build web software with Claude Code: I design the architecture, the agent impl
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeran-kuschel&show_icons=true&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joeran-kuschel&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joeran-kuschel&theme=default" alt="GitHub Stats">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeran-kuschel&layout=compact&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joeran-kuschel&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joeran-kuschel&theme=default" alt="Most used languages">
+</picture>
 
 ## Open for Work
 I’m available for freelance work, software collaborations, and open source projects.
