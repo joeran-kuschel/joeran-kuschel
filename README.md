@@ -6,7 +6,7 @@ Freelance software developer focused on AI-assisted development, automation, and
 I build web software with Claude Code: I design the architecture, the agent implements it, and I review every line before it ships.
 
 - 🛠️ What I do: architecture and development with AI, AI onboarding for dev teams, legacy modernization
-- 🧰 Stack: React, Next.js, Vue.js, Angular, TypeScript, Node.js, Python, adapting to the codebase I'm in
+- 🧰 Stack: React, Next.js, Vue.js, Nuxt.js, Angular, TypeScript, Node.js, Python, adapting to the codebase I'm in
 - 🔭 Currently working on: AI-assisted development workflows and software tooling
 - 🌱 Exploring: agent workflows with Claude Code: skills, specialized agents, MCP integrations
 - 🤝 Available for: freelance projects, consulting, and open source projects
@@ -20,6 +20,7 @@ I build web software with Claude Code: I design the architecture, the agent impl
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
