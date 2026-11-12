@@ -3,7 +3,7 @@
 Freelance software developer focused on AI-assisted development, automation, and building practical software solutions.
 
 ## About Me
-I build web software with Claude Code: I design the architecture, the agent implements it, and I review every line before it ships.
+I build web software with AI coding agents, mainly Claude Code, and use as much AI as the project calls for. I design the architecture, and I review every line before it ships.
 
 - 🛠️ What I do: architecture and development with AI, AI onboarding for dev teams, legacy modernization
 - 🧰 Stack: React, Next.js, Vue.js, Nuxt.js, Angular, TypeScript, Node.js, Python, adapting to the codebase I'm in
